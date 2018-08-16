@@ -1,0 +1,8 @@
+source https://www.nuget.org/api/v2
+nuget Chessie
+nuget FSharp.Core
+nuget FsUnit
+nuget Hopac
+nuget Microsoft.NET.Test.Sdk 15.7.2
+nuget nunit 3.10.1
+nuget NUnit3TestAdapter 3.10.0
